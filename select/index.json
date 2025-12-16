@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "HOUSE",
+  "base_artist": "Lucky Kilimanjaro",
+  "createdAt": "2025-12-16T15:59:07.576392Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Momma’s House",
+      "artist": "Dustin Lynch",
+      "has_synced": true,
+      "path": "select/01_Momma’s_House_Dustin_Lynch.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "House of the Rising Sun",
+      "artist": "alt-J",
+      "has_synced": false,
+      "path": "select/02_House_of_the_Rising_Sun_alt-J.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "House of the Rising Sun",
+      "artist": "alt‐J",
+      "has_synced": true,
+      "path": "select/03_House_of_the_Rising_Sun_alt‐J.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Burning House",
+      "artist": "Cam",
+      "has_synced": true,
+      "path": "select/04_Burning_House_Cam.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Every Light In the House",
+      "artist": "Trace Adkins",
+      "has_synced": true,
+      "path": "select/05_Every_Light_In_the_House_Trace_Adkins.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ghost In This House",
+      "artist": "Shenandoah",
+      "has_synced": true,
+      "path": "select/06_Ghost_In_This_House_Shenandoah.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "House Party",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/07_House_Party_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "House of Cards",
+      "artist": "Nicole Rayy",
+      "has_synced": true,
+      "path": "select/08_House_of_Cards_Nicole_Rayy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Don't Wanna Play House",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/09_I_Don't_Wanna_Play_House_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Don't Wanna Play House (Album Version)",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/10_I_Don't_Wanna_Play_House_(Album_Version)_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "If The House Is Rockin'",
+      "artist": "Lee Roy Parnell",
+      "has_synced": true,
+      "path": "select/11_If_The_House_Is_Rockin'_Lee_Roy_Parnell.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stranger In My House",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/12_Stranger_In_My_House_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stranger In My House",
+      "artist": "Ronnie Milsap",
+      "has_synced": false,
+      "path": "select/13_Stranger_In_My_House_Ronnie_Milsap.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The House That Built Me",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/14_The_House_That_Built_Me_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The House That Built Me",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/15_The_House_That_Built_Me_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HOUSE",
+      "artist": "Lucky Kilimanjaro",
+      "has_synced": false,
+      "path": "select/pl_01_HOUSE_Lucky_Kilimanjaro.txt"
+    }
+  ]
+}
